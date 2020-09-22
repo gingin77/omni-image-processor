@@ -1,0 +1,13 @@
+{
+  "name": "omni-image-processor",
+  "version": "1.0.0",
+  "description": "Sharp script for image processing to use for any image",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ginnie Hench",
+  "license": "ISC",
+  "dependencies": {
+    "sharp": "^0.26.0"
+  }
+}
